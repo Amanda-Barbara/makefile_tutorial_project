@@ -8,3 +8,4 @@
 * 1 [博主makefile知乎教程](https://zhuanlan.zhihu.com/p/396448133)
 * 2 [makefile教程1](http://c.biancheng.net/view/7095.html)
 * 3 [Makefile Tutorial](https://makefiletutorial.com/#makefile-cookbook)
+* 4 [GNU make manual](https://www.gnu.org/software/make/manual/make.html)
